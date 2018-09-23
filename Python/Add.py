@@ -1,0 +1,6 @@
+Biggest = max(6,18,9)
+print(Biggest)
+first=min(6,18)
+second=min(18,9)
+secondbiggest=max(first,second)
+print(secondbiggest)
