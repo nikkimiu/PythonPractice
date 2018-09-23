@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0ae679b6-4dc4-4534-b745-1bbbf95506b5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Lecture8\Slide23.py</StartupFile>
+    <StartupFile>Lecture8\Slide24.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -44,6 +44,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Lecture8\Slide23.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lecture8\Slide24.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Python.py" />
